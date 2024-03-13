@@ -20,6 +20,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height:100vh;
 }
 
 img{
@@ -79,7 +80,6 @@ button{
 .container{
 background-color: var(--Dark-Grey);
 width: 350px;
-margin-top:8rem;
 border-radius:1rem;
 }
 
